@@ -1,0 +1,7 @@
+{
+  "name": "MiniVideoPlayer",
+  "author": "TuriaArt",
+  "version": "1.0",
+  "apiVersion": 17,
+  "main": "Main.js"
+}
